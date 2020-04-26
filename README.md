@@ -12,6 +12,6 @@ This Script cannot be compiled to an .exe as the source code requires changes in
 
 To use this script, change the line **10** to have the path to your playlist file and then run the script. The script will output a new file in the directory where your playlist is located at with shuffled entries.
 
-**IMPORTANT: After choosing the directory, before the file name, there HAS to be a "/" Example: "/Longplay.m3u8" it cannot be a "\" as this causes issues with the program! It's also important to note that original backslashes cannot be replaced with a slash as this causes issues as well.**
+**IMPORTANT: After choosing the directory, before the file name, there HAS to be a "/" Example: "/Longplay.m3u8" it cannot be a "\\" as this causes issues with the program! It's also important to note that original backslashes cannot be replaced with a slash as this causes issues as well.**
 
 A proper formatted path looks like this: **C:\Users\RX1500x-METEOR\Desktop/Longplay.m3u8**
